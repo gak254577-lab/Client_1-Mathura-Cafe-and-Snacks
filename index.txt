@@ -15,8 +15,6 @@ Contact Us
 aria-label = Search
 <ion-icon name="search-outline"></ion-icon>
 
-Reservation
-
 aria-label = Toggle Menu
 
 
@@ -42,8 +40,6 @@ Supper delicious Burger in town!
 
 Food is any substance consumed to
 provide nutritional support for an organism.
-Book A Table
-
 alt = Burger
 
 
@@ -316,27 +312,7 @@ Tuesday 4PM: Till Mid Night
 
 Saturday: 10:00-16:00
 
-Book a Table
-
-placeholder = Your Name
-
-placeholder = Email
-
-aria-label = Total person
-
-Person
-2 Person
-3 Person
-4 Person
-5 Person
-
-aria-label = Reservation date
-
-placeholder = Message
-
-Book a Table
-
-&copy; 2022 codewithsadee All Rights Reserved.
+&copy; 2026 Have a Good Day!!!
 
 
 
